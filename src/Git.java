@@ -5,5 +5,9 @@ public class Git {
 		
 
 	}
+	
+	public getMethod(){
+		
+	}
 
 }
