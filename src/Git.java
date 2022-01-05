@@ -6,7 +6,7 @@ public class Git {
 
 	}
 	
-	public getMethod(){
+	public void getMethod(){
 		
 	}
 
